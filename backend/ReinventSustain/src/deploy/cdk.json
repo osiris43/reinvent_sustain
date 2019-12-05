@@ -1,0 +1,3 @@
+{
+  "app": "dotnet src/Deploy/bin/Debug/netcoreapp2.1/Deploy.dll"
+}
